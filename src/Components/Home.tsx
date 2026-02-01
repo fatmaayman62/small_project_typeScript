@@ -1,5 +1,4 @@
-import React from 'react'
-import headerBg from '../assets/header2.png'
+ import headerBg from '../assets/header2.png'
 import { RiStarLine } from "react-icons/ri";
 import { RiSecurePaymentLine } from "react-icons/ri";
 import { HiOutlineTruck } from "react-icons/hi";
