@@ -1,6 +1,5 @@
 import { Button } from '@heroui/react'
-import { ArrowRight } from 'lucide-react'
-import React from 'react'
+import { ArrowRight } from 'lucide-react' 
 
 function AboutPage() {
   return (
@@ -42,5 +41,6 @@ function AboutPage() {
     </>
   )
 }
+
 
 export default AboutPage
